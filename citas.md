@@ -1,2 +1,2 @@
-#Equipo Triceratops
+# Equipo Triceratops
 Documento para documentacion
